@@ -53,7 +53,6 @@ This research investigates how increasing the **depth** of linear neural network
 
 ## 📁 Files
 - `STAT525_Report_vava2.pdf`: Full report with theoretical derivations and experimental results
-- `code/`: TensorFlow scripts for experiments (upload optional)
 
 ## 👤 Author
 - Kashyap Ava
